@@ -1,9 +1,8 @@
 import 'dart:async';
 
-import 'package:admin_location/pages/loginScreen.dart';
+import 'package:admin_location/pages/signIn.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
 
